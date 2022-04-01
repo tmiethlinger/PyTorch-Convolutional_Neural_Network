@@ -1,1 +1,1 @@
-# PyTorch-Convolutional_Neural_Network
+# PyTorch: Convolutional Neural Network
